@@ -10,7 +10,7 @@
 <img src="content.JPG"width="100"height="60"vspace="5" hspace="5" onMouseOver="contents();">
 </span>
 <ol id="index-x">
-<li><a href="first.html">Главная</a></li>
+<li><a href="index.html">Главная</a></li>
 <li><a href="Foto_1.html">Cруб</a></li>
 <li><a href="Foto_2.html">Выпиливание входной двери</a></li>
 <li><a href="Vfod_dver.html">Двери</a></li>
@@ -43,7 +43,7 @@
 <div class="end">
 <a href="Foto_1.html"><img src="gogo.JPG"width="100"height="60"vspace="5" hspace="1" onMouseOver="ends();"></a>
 <ul id="index-y">
-<li><a href="first.html">Главная</a></li>
+<li><a href="index.html">Главная</a></li>
 <li><a href="Foto_1.html">Cруб</a></li>
 <li><a href="Foto_2.html">Выпиливание входной двери</a></li>
 <li><a href="Vfod_dver.html">Двери</a></li>
