@@ -1,0 +1,19 @@
+index.html - домашняя
+
+Foto_1.html - сруб
+
+Foto_2.html - выпиливание входной двери
+
+Vfod_dver.html - двери
+
+Pol_pornaya.html - монтаж слива парной
+
+Pol_pornaya_1.html - основание первого уровня пола
+
+Pol_pornaya_2.html - обрешётка первого уровня пола
+
+Pol_pornaya_uteplitel.html - тепло и гидроизоляция первого уровня пола парной
+
+Osnovnoy_pol_parnaya.html - основной пол в парной
+
+Predbannik_okno.html - окно в предбаннике

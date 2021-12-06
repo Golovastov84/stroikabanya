@@ -1,0 +1,71 @@
+body{
+	background-color:#ffff99;
+	color:#333333;
+	font:24px arial sans-serif;
+	width:1130px;
+	text-align:center;
+	border-width:1px;
+	}
+}
+h3{
+	margin:0 auto;
+	Color:#ff3300;
+	padding:10px;
+}
+.reklama{
+	background-color:#ccccff;
+	width:130px;
+	height:100%;
+	float:left;
+	clear:right;
+	}
+.infa{
+	background-color:#ffcc99;
+	float:left;
+	width:1000px;
+	clear:right;
+}
+.end{
+	clear:both;
+}
+#zagolovok{
+	font:30px arial sans-serif;
+	text-align:right;
+	Color:#ff3300;
+	width:650px;
+	height:50px;
+	float:right;
+	}
+#ssilka{
+	float:left;
+	width:480px;
+	text-align:center;
+	float:right;
+}
+#index-x{
+ background:#ffffc0;
+ border:1px solid red;
+ position:absolute;
+ left:657px;
+ top:45px;
+ width:420px;
+ height:400px;
+visibility:hidden;
+}
+#index-x{
+ z-index:1;
+}
+#index-x a{
+display:block;
+color:#000000;
+text-decoration:none;
+list-style-type:lower-alpha;
+Text-align:left;
+}
+#index-x a:hover{
+display:block;
+color:#00CC33;
+text-decoration:underline;
+}
+
+
